@@ -1,0 +1,17 @@
+.Button{
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
+.Card{
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+.color{
+    background: linear-gradient(
+        to right bottom,
+        rgba(255,255,255,0.7)
+        rgb(255,255,255,0.3)
+    );
+}

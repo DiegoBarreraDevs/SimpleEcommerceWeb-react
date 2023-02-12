@@ -1,0 +1,32 @@
+{
+    "listaProductos":[
+        {
+            "titulo": "Iphone X",
+            "imagen": "https://images.pexels.com/photos/788946/pexels-photo-788946.jpeg?cs=srgb&dl=pexels-jess-bailey-designs-788946.jpg&fm=jpg",
+            "descripcion": "Iphone X, telefono de alta gama, producto apple.",
+            "precio":"900",
+            "stock": "5"
+        },
+        {
+            "titulo": "Camera Nikkon",
+            "imagen": "https://images.pexels.com/photos/51383/photo-camera-subject-photographer-51383.jpeg?cs=srgb&dl=pexels-pixabay-51383.jpg&fm=jpg",
+            "descripcion": "Camara de la reconocida marca Nikkon, con set de lentes UHD",
+            "precio":"2000",
+            "stock": "7"
+        },
+        {
+            "titulo": "Drone",
+            "imagen": "https://images.pexels.com/photos/1601217/pexels-photo-1601217.jpeg?cs=srgb&dl=pexels-vitaly-vlasov-1601217.jpg&fm=jpg",
+            "descripcion": "Drone JVS, puro estilo y gran resolucion",
+            "precio":"3500",
+            "stock": "2"
+        },
+        {
+            "titulo": "Headphones",
+            "imagen": "https://images.pexels.com/photos/1649771/pexels-photo-1649771.jpeg?cs=srgb&dl=pexels-garrett-morrow-1649771.jpg&fm=jpg",
+            "descripcion": "Auriculares JVL edicion limitada",
+            "precio":"500",
+            "stock": "20"
+        }
+    ]
+}
